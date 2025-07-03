@@ -419,6 +419,7 @@ jobs:
           # don't fail the build if zizmor fails - we want to capture the output
           # and the exit code
           set +e
+          echo "<<<$ZIZMOR_CONFIG>>>"
           uvx zizmor@"${ZIZMOR_VERSION}" \
             --format plain \
             --min-severity "${MIN_SEVERITY}" \
