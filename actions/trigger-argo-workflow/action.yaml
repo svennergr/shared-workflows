@@ -119,7 +119,7 @@ runs:
             continue
           fi
 
-          parameters+=("--parameter" "$line")
+          parameters+=("--parameter" "'$line'")
         done <<< "${PARAMETERS}"
 
         if [ -n "${WORKFLOW_TEMPLATE}" ]; then
