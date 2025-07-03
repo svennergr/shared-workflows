@@ -336,6 +336,8 @@ jobs:
           FORCE_DEFAULT_CONFIG: ${{ inputs.always-use-default-config && 'true' || '' }}
         shell: sh
         run: |
+          set -x
+
           if [ -z "${FORCE_DEFAULT_CONFIG}" ]; then
             echo "Checking for user-provided zizmor configuration..."
             if [ -f "zizmor.yml" ]; then
@@ -346,7 +348,8 @@ jobs:
 
             if [ -f ".github/zizmor.yml" ]; then
               # No action needed, zizmor will find it
-              echo "Using .github/zizmor.yml found in repository."
+              echo "Using .github/zizmor.yml found in repository. Contents:"
+              cat .github/zizmor.yml
               exit 0
             fi
 
@@ -380,7 +383,10 @@ jobs:
           ZIZMOR_CACHE_DIR: ${{ runner.temp }}/.cache/zizmor
         shell: sh
         run: >-
+          set -x
+
           uvx zizmor@"${ZIZMOR_VERSION}"
+          --verbose
           --format sarif
           --min-severity "${MIN_SEVERITY}"
           --min-confidence "${MIN_CONFIDENCE}"
