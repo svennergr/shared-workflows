@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2](https://github.com/svennergr/shared-workflows/compare/cleanup-branches/v0.2.1...cleanup-branches/v0.2.2) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **cleanup-branches:** modify default max-date to match GitHub's definition of stale ([#1428](https://github.com/svennergr/shared-workflows/issues/1428)) ([dc0390c](https://github.com/svennergr/shared-workflows/commit/dc0390cca99489fb813e30f49ceb12b4daa71211))
+* **main:** release cleanup-branches 0.2.1 ([#1434](https://github.com/svennergr/shared-workflows/issues/1434)) ([c906aff](https://github.com/svennergr/shared-workflows/commit/c906affb19f070fde9dce56e0db8053c490946cc))
+
 ## [0.2.1](https://github.com/grafana/shared-workflows/compare/cleanup-branches/v0.2.0...cleanup-branches/v0.2.1) (2025-10-17)
 
 
