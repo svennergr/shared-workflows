@@ -1,5 +1,53 @@
 # Changelog
 
+## [0.4.0](https://github.com/svennergr/shared-workflows/compare/docker-build-push-image/v0.3.3...docker-build-push-image/v0.4.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* **docker-build-push-image:** add builder input ([#1605](https://github.com/svennergr/shared-workflows/issues/1605)) ([e39baa6](https://github.com/svennergr/shared-workflows/commit/e39baa6584886aef49fe533215defc5627ffbd3f))
+* **docker-build-push-image:** support annotations ([#1513](https://github.com/svennergr/shared-workflows/issues/1513)) ([62333c1](https://github.com/svennergr/shared-workflows/commit/62333c16b0e89cea15c9c4de726271fa4e638f96))
+
+
+### 🐛 Bug Fixes
+
+* **docker-build-push-image:** pass builder name to docker/build-push-action ([#1602](https://github.com/svennergr/shared-workflows/issues/1602)) ([59bb68c](https://github.com/svennergr/shared-workflows/commit/59bb68c6a0a1bc5701261915eaa04199916be716))
+* **docker-build-push-image:** use labels from docker/metadata-action ([#1502](https://github.com/svennergr/shared-workflows/issues/1502)) ([4d65325](https://github.com/svennergr/shared-workflows/commit/4d65325ccd5a45fae20b0821f4ab15e2451d92ea))
+
+
+### 📝 Documentation
+
+* **docker-build-push-image:** clarify push input defaults ([#1719](https://github.com/svennergr/shared-workflows/issues/1719)) ([256dfbb](https://github.com/svennergr/shared-workflows/commit/256dfbbabfebc3e21d15113e9f5e876ba2fe7b48))
+* improve docker build action docs ([#1486](https://github.com/svennergr/shared-workflows/issues/1486)) ([2dd0b03](https://github.com/svennergr/shared-workflows/commit/2dd0b0349e130ca5ccf86b3a61250589a840bdb2))
+* **multiple:** add warning about push to GAR failure ([#1555](https://github.com/svennergr/shared-workflows/issues/1555)) ([eb33f84](https://github.com/svennergr/shared-workflows/commit/eb33f84481d38701f4d2c587a4817ce332784f5f))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update docker/build-push-action action to v6.19.0 ([#1717](https://github.com/svennergr/shared-workflows/issues/1717)) ([37c176c](https://github.com/svennergr/shared-workflows/commit/37c176c8a62d075692cbafeacbc4ea31613a33c5))
+* **deps:** update docker/build-push-action action to v6.19.2 ([#1721](https://github.com/svennergr/shared-workflows/issues/1721)) ([bf35378](https://github.com/svennergr/shared-workflows/commit/bf35378348bf907badcc18ddf782201261c62d8c))
+* **deps:** update docker/build-push-action action to v7 ([#1785](https://github.com/svennergr/shared-workflows/issues/1785)) ([490b672](https://github.com/svennergr/shared-workflows/commit/490b6727050ad2740e5a8f86ac0e6c9e653fc15b))
+* **deps:** update docker/build-push-action action to v7.1.0 ([#1864](https://github.com/svennergr/shared-workflows/issues/1864)) ([32404b4](https://github.com/svennergr/shared-workflows/commit/32404b4f4a2a8ec646d6ee76ed3df0ab8f84bdfb))
+* **deps:** update docker/metadata-action action to v5.10.0 ([#1582](https://github.com/svennergr/shared-workflows/issues/1582)) ([d80ddba](https://github.com/svennergr/shared-workflows/commit/d80ddba3b588ad911410ce91c599bbbe513196b0))
+* **deps:** update docker/metadata-action action to v5.9.0 ([#1501](https://github.com/svennergr/shared-workflows/issues/1501)) ([2d5a067](https://github.com/svennergr/shared-workflows/commit/2d5a0678eb32b0fd6655b4f7a3a7ec72eaf530ca))
+* **deps:** update docker/metadata-action action to v6 ([#1787](https://github.com/svennergr/shared-workflows/issues/1787)) ([de48747](https://github.com/svennergr/shared-workflows/commit/de48747bf25be41fcb04d5d6ff05cc5eed0775fe))
+* **deps:** update docker/setup-buildx-action action to v3.12.0 ([#1633](https://github.com/svennergr/shared-workflows/issues/1633)) ([9c7001f](https://github.com/svennergr/shared-workflows/commit/9c7001fb8ab6048113c07b6454aea78589e0e6b9))
+* **deps:** update docker/setup-buildx-action action to v4 ([#1791](https://github.com/svennergr/shared-workflows/issues/1791)) ([2376476](https://github.com/svennergr/shared-workflows/commit/2376476a8678d5422711041823033659e4872548))
+* **deps:** update docker/setup-qemu-action action to v3.7.0 ([#1505](https://github.com/svennergr/shared-workflows/issues/1505)) ([559f4cd](https://github.com/svennergr/shared-workflows/commit/559f4cd66a01e0ebe256defa20964721f25bad1f))
+* **deps:** update docker/setup-qemu-action action to v4 ([#1792](https://github.com/svennergr/shared-workflows/issues/1792)) ([a13ffd7](https://github.com/svennergr/shared-workflows/commit/a13ffd766a74b4e4861aae33dc7fcfdecb5aad5a))
+* **main:** release docker-build-push-image 0.1.0 ([#1419](https://github.com/svennergr/shared-workflows/issues/1419)) ([c658f0f](https://github.com/svennergr/shared-workflows/commit/c658f0fe8393e31c39d266684ef273c6538ed0e1))
+* **main:** release docker-build-push-image 0.1.1 ([#1503](https://github.com/svennergr/shared-workflows/issues/1503)) ([7a256e9](https://github.com/svennergr/shared-workflows/commit/7a256e98018aba3d01643479808a7690179a1f1c))
+* **main:** release docker-build-push-image 0.2.0 ([#1509](https://github.com/svennergr/shared-workflows/issues/1509)) ([b3d1365](https://github.com/svennergr/shared-workflows/commit/b3d136565946d8788dd6812881fb0fb2fe14bacb))
+* **main:** release docker-build-push-image 0.3.0 ([#1542](https://github.com/svennergr/shared-workflows/issues/1542)) ([ef27c62](https://github.com/svennergr/shared-workflows/commit/ef27c620a88acc9f3007f30be5e9407324e8975b))
+* **main:** release docker-build-push-image 0.3.1 ([#1641](https://github.com/svennergr/shared-workflows/issues/1641)) ([438c8d6](https://github.com/svennergr/shared-workflows/commit/438c8d6321147607b3f6f0e922508e78e746af9b))
+* **main:** release docker-build-push-image 0.3.2 ([#1790](https://github.com/svennergr/shared-workflows/issues/1790)) ([21ae57f](https://github.com/svennergr/shared-workflows/commit/21ae57f82e5256e5a418406388926d4ba24bccf2))
+* **main:** release docker-build-push-image 0.3.3 ([#1873](https://github.com/svennergr/shared-workflows/issues/1873)) ([34f2788](https://github.com/svennergr/shared-workflows/commit/34f27887c37cafe70d34af57dfc86b468a31b8c4))
+* **multiple:** deprecate old docker actions and add migration guide ([#1606](https://github.com/svennergr/shared-workflows/issues/1606)) ([b6c252d](https://github.com/svennergr/shared-workflows/commit/b6c252dc86cb65eaf2d8344d6d51ca07436214a2))
+
 ## [0.3.3](https://github.com/grafana/shared-workflows/compare/docker-build-push-image/v0.3.2...docker-build-push-image/v0.3.3) (2026-05-04)
 
 
