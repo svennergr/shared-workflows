@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/svennergr/shared-workflows/compare/setup-conftest/v1.0.3...setup-conftest/v1.0.4) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release setup-conftest 1.0.3 ([#1205](https://github.com/svennergr/shared-workflows/issues/1205)) ([02bf120](https://github.com/svennergr/shared-workflows/commit/02bf1204ecbc508b11927677dcec9ab70ecfcea5))
+
 ## [1.0.3](https://github.com/grafana/shared-workflows/compare/setup-conftest/v1.0.2...setup-conftest/v1.0.3) (2025-12-09)
 
 
