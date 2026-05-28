@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/svennergr/shared-workflows/compare/setup-jrsonnet/v1.0.2...setup-jrsonnet/v1.0.3) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release setup-jrsonnet 1.0.2 ([#1206](https://github.com/svennergr/shared-workflows/issues/1206)) ([712fac3](https://github.com/svennergr/shared-workflows/commit/712fac3f2b51b2a812bf39cf334058346121d67a))
+
 ## [1.0.2](https://github.com/grafana/shared-workflows/compare/setup-jrsonnet/v1.0.1...setup-jrsonnet/v1.0.2) (2025-11-10)
 
 
