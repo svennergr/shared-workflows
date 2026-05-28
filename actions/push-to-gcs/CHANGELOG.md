@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.3.2](https://github.com/svennergr/shared-workflows/compare/push-to-gcs/v0.3.1...push-to-gcs/v0.3.2) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **main:** release push-to-gcs 0.3.1 ([#1544](https://github.com/svennergr/shared-workflows/issues/1544)) ([bc692dc](https://github.com/svennergr/shared-workflows/commit/bc692dca3f6e354bc565ae8f6e622f24a6162b66))
+
 ## [0.3.1](https://github.com/grafana/shared-workflows/compare/push-to-gcs/v0.3.0...push-to-gcs/v0.3.1) (2026-05-04)
 
 
