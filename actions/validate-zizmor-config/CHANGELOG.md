@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.3.0](https://github.com/svennergr/shared-workflows/compare/validate-zizmor-config/v0.2.0...validate-zizmor-config/v0.3.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* **validate-zizmor-config:** align with shared release patterns ([#1949](https://github.com/svennergr/shared-workflows/issues/1949)) ([d5ac8ff](https://github.com/svennergr/shared-workflows/commit/d5ac8ff989cd791c5fc7bf363fa8c15c5ff9b8d7))
+* **zizmor:** add Zizmor config validation ([#1877](https://github.com/svennergr/shared-workflows/issues/1877)) ([0de3298](https://github.com/svennergr/shared-workflows/commit/0de3298c32a8d21aebbe5405116864ab53bc8115))
+
+
+### 🐛 Bug Fixes
+
+* **zizmor:** send results when config file validation fails ([#1947](https://github.com/svennergr/shared-workflows/issues/1947)) ([30b1318](https://github.com/svennergr/shared-workflows/commit/30b13182450854d02e0a54fa42078f7c29889cad))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update dependency pyyaml to v6.0.3 ([#1911](https://github.com/svennergr/shared-workflows/issues/1911)) ([63063a1](https://github.com/svennergr/shared-workflows/commit/63063a139c25c7a51fe3ffcd30d938eeabee5a54))
+* **main:** release validate-zizmor-config 0.2.0 ([#1950](https://github.com/svennergr/shared-workflows/issues/1950)) ([84a7e1d](https://github.com/svennergr/shared-workflows/commit/84a7e1d935b2240eb5dcc3ee4dc0a6692057e94d))
+
 ## [0.2.0](https://github.com/grafana/shared-workflows/compare/validate-zizmor-config/v0.1.0...validate-zizmor-config/v0.2.0) (2026-05-22)
 
 
