@@ -1,5 +1,38 @@
 # Changelog
 
+## [1.4.0](https://github.com/svennergr/shared-workflows/compare/trigger-argo-workflow/v1.3.0...trigger-argo-workflow/v1.4.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* output Argo workflow URL in summary ([#1908](https://github.com/svennergr/shared-workflows/issues/1908)) ([b131235](https://github.com/svennergr/shared-workflows/commit/b131235b5aecfe27472557d91842116ef224d716))
+
+
+### 🐛 Bug Fixes
+
+* **trigger-argo-workflow:** allow passing parameters with commas ([#1697](https://github.com/svennergr/shared-workflows/issues/1697)) ([7f983a8](https://github.com/svennergr/shared-workflows/commit/7f983a8135eb58eaec83c96d8b842b2092e110e3))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** bump github.com/urfave/cli/v3 ([d6a4764](https://github.com/svennergr/shared-workflows/commit/d6a47644f63f9583bcf051afb34f745c7eb4d79b))
+* **deps:** bump github.com/urfave/cli/v3 ([2a42482](https://github.com/svennergr/shared-workflows/commit/2a424823891a40ca1e5eaa8a8d64f0b9179da363))
+* **deps:** bump github.com/urfave/cli/v3 from 3.5.0 to 3.6.0 in trigger-argo-workflow ([#1508](https://github.com/svennergr/shared-workflows/issues/1508)) ([d6a4764](https://github.com/svennergr/shared-workflows/commit/d6a47644f63f9583bcf051afb34f745c7eb4d79b))
+* **deps:** bump github.com/urfave/cli/v3 to 3.5.0 in /actions/trigger-argo-workflow ([#1458](https://github.com/svennergr/shared-workflows/issues/1458)) ([2a42482](https://github.com/svennergr/shared-workflows/commit/2a424823891a40ca1e5eaa8a8d64f0b9179da363))
+* **deps:** bump the go group ([a369fe9](https://github.com/svennergr/shared-workflows/commit/a369fe99d9d98fa42eea954fb905c4a200dc5973))
+* **deps:** bump the go group in /actions/trigger-argo-workflow with 2 updates ([#1560](https://github.com/svennergr/shared-workflows/issues/1560)) ([a369fe9](https://github.com/svennergr/shared-workflows/commit/a369fe99d9d98fa42eea954fb905c4a200dc5973))
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update actions/setup-go action to v6.1.0 ([#1565](https://github.com/svennergr/shared-workflows/issues/1565)) ([cfddbee](https://github.com/svennergr/shared-workflows/commit/cfddbeede13168d5c0d75c201fd298363a647e27))
+* **deps:** update actions/setup-go action to v6.2.0 ([#1657](https://github.com/svennergr/shared-workflows/issues/1657)) ([d29b916](https://github.com/svennergr/shared-workflows/commit/d29b9161f1803baed4a7305c85cb5a3018bc3c3e))
+* **deps:** update actions/setup-go action to v6.3.0 ([#1756](https://github.com/svennergr/shared-workflows/issues/1756)) ([c6b0752](https://github.com/svennergr/shared-workflows/commit/c6b07529443393154d824d1ad0e707f4b3d090f6))
+* **deps:** update actions/setup-go action to v6.4.0 ([#1837](https://github.com/svennergr/shared-workflows/issues/1837)) ([170bd5b](https://github.com/svennergr/shared-workflows/commit/170bd5b0ba3c2414519216fd5d7f0fe5a40e3f40))
+* **main:** release trigger-argo-workflow 1.2.1 ([#1269](https://github.com/svennergr/shared-workflows/issues/1269)) ([e100806](https://github.com/svennergr/shared-workflows/commit/e100806688f1209051080dfea5719fbbd1d18cc0))
+* **main:** release trigger-argo-workflow 1.2.2 ([#1567](https://github.com/svennergr/shared-workflows/issues/1567)) ([b513eb1](https://github.com/svennergr/shared-workflows/commit/b513eb1dfd9becfa671a41e55063cdd5c0a08031))
+* **main:** release trigger-argo-workflow 1.3.0 ([#1759](https://github.com/svennergr/shared-workflows/issues/1759)) ([8269e93](https://github.com/svennergr/shared-workflows/commit/8269e9362f30c5458c2cad54510ea74fd053920c))
+
 ## [1.3.0](https://github.com/grafana/shared-workflows/compare/trigger-argo-workflow/v1.2.2...trigger-argo-workflow/v1.3.0) (2026-05-04)
 
 
