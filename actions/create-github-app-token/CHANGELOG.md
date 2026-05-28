@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.3.0](https://github.com/svennergr/shared-workflows/compare/create-github-app-token/v0.2.3...create-github-app-token/v0.3.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* **create-github-app-token:** revoke token in post-job step ([#1946](https://github.com/svennergr/shared-workflows/issues/1946)) ([07a8487](https://github.com/svennergr/shared-workflows/commit/07a8487494dcc332debf98242d129ec8fbda1e56))
+
+
+### 🐛 Bug Fixes
+
+* **create-github-app-token:** clarify the workflow permissions ([#1942](https://github.com/svennergr/shared-workflows/issues/1942)) ([7ae8508](https://github.com/svennergr/shared-workflows/commit/7ae85085c0bed854b41785ba266604b08e50abe0))
+* **create-github-app-token:** use temporary file w/ trap for oidc response ([#1477](https://github.com/svennergr/shared-workflows/issues/1477)) ([580590a](https://github.com/svennergr/shared-workflows/commit/580590a644e82e79bb2598bdaba0be245a14dda0))
+* **create-github-app-token:** use temporary file w/ trap for token response ([#1474](https://github.com/svennergr/shared-workflows/issues/1474)) ([47da0d2](https://github.com/svennergr/shared-workflows/commit/47da0d2eed9947d70b296109aa3ff93af31ca738))
+* use temporary file w/ trap for oidc response ([580590a](https://github.com/svennergr/shared-workflows/commit/580590a644e82e79bb2598bdaba0be245a14dda0))
+* use temporary file w/ trap for token response ([47da0d2](https://github.com/svennergr/shared-workflows/commit/47da0d2eed9947d70b296109aa3ff93af31ca738))
+
+
+### 📝 Documentation
+
+* **create-github-app-token:** fix some errors in readme ([#1558](https://github.com/svennergr/shared-workflows/issues/1558)) ([0a7a2fc](https://github.com/svennergr/shared-workflows/commit/0a7a2fc07560de0f2fe500ed9fd1f53ec7d86d33))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/github-script action to v9 ([#1866](https://github.com/svennergr/shared-workflows/issues/1866)) ([e5b7989](https://github.com/svennergr/shared-workflows/commit/e5b7989c92b55fe3ac6dd006d6de49082ba8c507))
+* **main:** release create-github-app-token 0.2.1 ([#1475](https://github.com/svennergr/shared-workflows/issues/1475)) ([a555663](https://github.com/svennergr/shared-workflows/commit/a5556630f6557d54926f9e2b63e68702a1684315))
+* **main:** release create-github-app-token 0.2.2 ([#1478](https://github.com/svennergr/shared-workflows/issues/1478)) ([ae92934](https://github.com/svennergr/shared-workflows/commit/ae92934a14a48b94494dbc06d74a81d47fe08a40))
+* **main:** release create-github-app-token 0.2.3 ([#1573](https://github.com/svennergr/shared-workflows/issues/1573)) ([259ba21](https://github.com/svennergr/shared-workflows/commit/259ba21cb3ff07724f331e26d926d655d24b317b))
+
 ## [0.2.3](https://github.com/grafana/shared-workflows/compare/create-github-app-token/v0.2.2...create-github-app-token/v0.2.3) (2026-05-05)
 
 
