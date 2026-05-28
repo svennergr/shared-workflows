@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.3](https://github.com/svennergr/shared-workflows/compare/get-vault-secrets/v1.3.2...get-vault-secrets/v1.3.3) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/github-script action to v9 ([#1866](https://github.com/svennergr/shared-workflows/issues/1866)) ([e5b7989](https://github.com/svennergr/shared-workflows/commit/e5b7989c92b55fe3ac6dd006d6de49082ba8c507))
+* **main:** release get-vault-secrets 1.3.1 ([#1308](https://github.com/svennergr/shared-workflows/issues/1308)) ([f1614b2](https://github.com/svennergr/shared-workflows/commit/f1614b210386ac420af6807a997ac7f6d96e477a))
+* **main:** release get-vault-secrets 1.3.2 ([#1868](https://github.com/svennergr/shared-workflows/issues/1868)) ([a53fc80](https://github.com/svennergr/shared-workflows/commit/a53fc80bc30b0a16a262520465db899fa3af08b7))
+
 ## [1.3.2](https://github.com/grafana/shared-workflows/compare/get-vault-secrets/v1.3.1...get-vault-secrets/v1.3.2) (2026-05-04)
 
 
