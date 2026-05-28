@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.0.5](https://github.com/svennergr/shared-workflows/compare/techdocs-rewrite-relative-links/v1.0.4...techdocs-rewrite-relative-links/v1.0.5) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** bump github.com/urfave/cli/v3 ([80f9be5](https://github.com/svennergr/shared-workflows/commit/80f9be521dccb52127d4c8412da7d48a8302231f))
+* **deps:** bump github.com/urfave/cli/v3 ([9d6364e](https://github.com/svennergr/shared-workflows/commit/9d6364ec59b1d03bc29f39873ec61e1d6c990649))
+* **deps:** bump github.com/urfave/cli/v3 to 3.5.0 in techdocs-rewrite-relative-links ([#1459](https://github.com/svennergr/shared-workflows/issues/1459)) ([9d6364e](https://github.com/svennergr/shared-workflows/commit/9d6364ec59b1d03bc29f39873ec61e1d6c990649))
+* **deps:** bump github.com/urfave/cli/v3 to 3.6.0 in techdocs-rewrite-relative-links ([#1507](https://github.com/svennergr/shared-workflows/issues/1507)) ([80f9be5](https://github.com/svennergr/shared-workflows/commit/80f9be521dccb52127d4c8412da7d48a8302231f))
+* **deps:** bump the go group ([c988ac9](https://github.com/svennergr/shared-workflows/commit/c988ac9e58a85221c27e9466b58bc97598095fcc))
+* **deps:** bump the go group in /actions/techdocs-rewrite-relative-links with 2 updates ([#1561](https://github.com/svennergr/shared-workflows/issues/1561)) ([c988ac9](https://github.com/svennergr/shared-workflows/commit/c988ac9e58a85221c27e9466b58bc97598095fcc))
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update actions/setup-go action to v6.1.0 ([#1565](https://github.com/svennergr/shared-workflows/issues/1565)) ([cfddbee](https://github.com/svennergr/shared-workflows/commit/cfddbeede13168d5c0d75c201fd298363a647e27))
+* **deps:** update actions/setup-go action to v6.2.0 ([#1657](https://github.com/svennergr/shared-workflows/issues/1657)) ([d29b916](https://github.com/svennergr/shared-workflows/commit/d29b9161f1803baed4a7305c85cb5a3018bc3c3e))
+* **deps:** update actions/setup-go action to v6.3.0 ([#1756](https://github.com/svennergr/shared-workflows/issues/1756)) ([c6b0752](https://github.com/svennergr/shared-workflows/commit/c6b07529443393154d824d1ad0e707f4b3d090f6))
+* **deps:** update actions/setup-go action to v6.4.0 ([#1837](https://github.com/svennergr/shared-workflows/issues/1837)) ([170bd5b](https://github.com/svennergr/shared-workflows/commit/170bd5b0ba3c2414519216fd5d7f0fe5a40e3f40))
+* **main:** release techdocs-rewrite-relative-links 1.0.3 ([#1018](https://github.com/svennergr/shared-workflows/issues/1018)) ([3616cd0](https://github.com/svennergr/shared-workflows/commit/3616cd00d1e75efc2b41da6e51975c6eacb91d3c))
+* **main:** release techdocs-rewrite-relative-links 1.0.4 ([#1511](https://github.com/svennergr/shared-workflows/issues/1511)) ([8913af1](https://github.com/svennergr/shared-workflows/commit/8913af1a0c480224855c86e43897f8f85ab98dac))
+
 ## [1.0.4](https://github.com/grafana/shared-workflows/compare/techdocs-rewrite-relative-links/v1.0.3...techdocs-rewrite-relative-links/v1.0.4) (2026-05-04)
 
 
