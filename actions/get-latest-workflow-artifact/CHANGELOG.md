@@ -1,5 +1,52 @@
 # Changelog
 
+## [0.2.3](https://github.com/svennergr/shared-workflows/compare/get-latest-workflow-artifact/v0.2.2...get-latest-workflow-artifact/v0.2.3) (2026-05-28)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update dependency @actions/artifact to v4 ([#1462](https://github.com/svennergr/shared-workflows/issues/1462)) ([cbb5c3f](https://github.com/svennergr/shared-workflows/commit/cbb5c3f16e9be56e14f5f094978420b09444b414))
+* **deps:** update dependency @actions/artifact to v6 ([#1689](https://github.com/svennergr/shared-workflows/issues/1689)) ([abc4b3b](https://github.com/svennergr/shared-workflows/commit/abc4b3ba6dfd52485bd917af300dc1de493b0a9e))
+* **deps:** update dependency @actions/artifact to v6.2.1 ([#1754](https://github.com/svennergr/shared-workflows/issues/1754)) ([979bc5d](https://github.com/svennergr/shared-workflows/commit/979bc5d3fd4ea82383d3f1362c34041687c74304))
+* **deps:** update dependency @actions/core to v2 ([#1611](https://github.com/svennergr/shared-workflows/issues/1611)) ([df5148a](https://github.com/svennergr/shared-workflows/commit/df5148a5fd41f71730111245cfe3a0511c6bfa7b))
+* **deps:** update dependency @actions/core to v2.0.2 ([#1652](https://github.com/svennergr/shared-workflows/issues/1652)) ([82eaa92](https://github.com/svennergr/shared-workflows/commit/82eaa926c7f42abb078acfcc2219d88eda1bbf29))
+* **deps:** update dependency @actions/core to v3 ([#1688](https://github.com/svennergr/shared-workflows/issues/1688)) ([9639065](https://github.com/svennergr/shared-workflows/commit/96390656fe5e83376944933777c89db5c3510ad0))
+* **deps:** update dependency @actions/core to v3.0.1 ([#1898](https://github.com/svennergr/shared-workflows/issues/1898)) ([c0e53c6](https://github.com/svennergr/shared-workflows/commit/c0e53c62be90482ca6f0d15d791828942924e29b))
+* **deps:** update dependency @actions/github to v7 ([#1650](https://github.com/svennergr/shared-workflows/issues/1650)) ([8eaf9f4](https://github.com/svennergr/shared-workflows/commit/8eaf9f43d334bbe13c4f5c71c590403b5b4528a6))
+* **deps:** update dependency @actions/github to v9 ([#1687](https://github.com/svennergr/shared-workflows/issues/1687)) ([0a6d038](https://github.com/svennergr/shared-workflows/commit/0a6d0382a92b7282ab72bb4a934225d8cb17a8ff))
+* **deps:** update dependency @actions/github to v9.1.0 ([#1862](https://github.com/svennergr/shared-workflows/issues/1862)) ([aaedda8](https://github.com/svennergr/shared-workflows/commit/aaedda812a5314ed1c17b35adabea9f6a9ef94fe))
+* **deps:** update dependency @actions/github to v9.1.1 ([#1899](https://github.com/svennergr/shared-workflows/issues/1899)) ([e6e6160](https://github.com/svennergr/shared-workflows/commit/e6e61603c4b276aa1b98788b6372c8712c19fb22))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update dependency @types/node to v24.10.0 ([#1494](https://github.com/svennergr/shared-workflows/issues/1494)) ([baefcd3](https://github.com/svennergr/shared-workflows/commit/baefcd38d64334bd29d861fe618b157cd7dc8bc7))
+* **deps:** update dependency @types/node to v24.10.1 ([#1535](https://github.com/svennergr/shared-workflows/issues/1535)) ([9cf4dd8](https://github.com/svennergr/shared-workflows/commit/9cf4dd82e5a9c2dfe11e3ac9a9ce39c91a8fa606))
+* **deps:** update dependency @types/node to v24.10.12 ([#1698](https://github.com/svennergr/shared-workflows/issues/1698)) ([fe26e2b](https://github.com/svennergr/shared-workflows/commit/fe26e2b73d33e72d28ea1e4e0ab4559a81cac606))
+* **deps:** update dependency @types/node to v24.10.13 ([#1716](https://github.com/svennergr/shared-workflows/issues/1716)) ([7cf316d](https://github.com/svennergr/shared-workflows/commit/7cf316df3ec6eb20f4588e23515e0a296e193e67))
+* **deps:** update dependency @types/node to v24.10.2 ([#1609](https://github.com/svennergr/shared-workflows/issues/1609)) ([37d8342](https://github.com/svennergr/shared-workflows/commit/37d83429d084173e084cb68a4c5681f1ad62a707))
+* **deps:** update dependency @types/node to v24.10.3 ([#1613](https://github.com/svennergr/shared-workflows/issues/1613)) ([dcedd5e](https://github.com/svennergr/shared-workflows/commit/dcedd5ee48bacc82652c08ff07813383469b4e7d))
+* **deps:** update dependency @types/node to v24.10.4 ([#1628](https://github.com/svennergr/shared-workflows/issues/1628)) ([6bdbc68](https://github.com/svennergr/shared-workflows/commit/6bdbc68c7e4800fccfc9e2b3b8992a71f841a3eb))
+* **deps:** update dependency @types/node to v24.10.7 ([#1651](https://github.com/svennergr/shared-workflows/issues/1651)) ([6c66027](https://github.com/svennergr/shared-workflows/commit/6c66027677a1aec6e70491d2506a3b3206f88cd2))
+* **deps:** update dependency @types/node to v24.10.9 ([#1659](https://github.com/svennergr/shared-workflows/issues/1659)) ([38edbe0](https://github.com/svennergr/shared-workflows/commit/38edbe0d315b33d94967c3f23c4a8df58a51757f))
+* **deps:** update dependency @types/node to v24.11.0 ([#1760](https://github.com/svennergr/shared-workflows/issues/1760)) ([f619a63](https://github.com/svennergr/shared-workflows/commit/f619a637e489e8e7749cf4966ee2776e4178a303))
+* **deps:** update dependency @types/node to v24.12.0 ([#1781](https://github.com/svennergr/shared-workflows/issues/1781)) ([b1e1813](https://github.com/svennergr/shared-workflows/commit/b1e181350974c73d9510b0363a0624c136e64204))
+* **deps:** update dependency @types/node to v24.12.2 ([#1851](https://github.com/svennergr/shared-workflows/issues/1851)) ([c3ec975](https://github.com/svennergr/shared-workflows/commit/c3ec975f80fd0f5c5c7fef99bba4b5b9a63e51c7))
+* **deps:** update dependency @types/node to v24.12.2 ([#1852](https://github.com/svennergr/shared-workflows/issues/1852)) ([a2e4857](https://github.com/svennergr/shared-workflows/commit/a2e485723e166cfec831d33751b9e5b66e2d7646))
+* **deps:** update dependency @types/node to v24.7.2 ([#1417](https://github.com/svennergr/shared-workflows/issues/1417)) ([ff24372](https://github.com/svennergr/shared-workflows/commit/ff24372f9988cf5965be25feebeb61e938e2ff6e))
+* **deps:** update dependency @types/node to v24.8.0 ([#1438](https://github.com/svennergr/shared-workflows/issues/1438)) ([24ff0a0](https://github.com/svennergr/shared-workflows/commit/24ff0a03861ea36e7843d6b72adddb3f83f87ad2))
+* **deps:** update dependency @types/node to v24.8.1 ([#1439](https://github.com/svennergr/shared-workflows/issues/1439)) ([501429f](https://github.com/svennergr/shared-workflows/commit/501429f025eafa143625c21370da95eb20bc6490))
+* **deps:** update dependency @types/node to v24.9.1 ([#1451](https://github.com/svennergr/shared-workflows/issues/1451)) ([bca48b6](https://github.com/svennergr/shared-workflows/commit/bca48b60029f80d2ea7c1a6bd1a49ffa7915a9e3))
+* **deps:** update dependency @types/node to v24.9.2 ([#1473](https://github.com/svennergr/shared-workflows/issues/1473)) ([d38db1d](https://github.com/svennergr/shared-workflows/commit/d38db1d025cb6f99bb21e420fa89dff42350c1c7))
+* **deps:** update octokit monorepo ([6469a52](https://github.com/svennergr/shared-workflows/commit/6469a5278fdedca811e1fc31528e2d4608c6debb))
+* **deps:** update octokit monorepo (major) ([#1483](https://github.com/svennergr/shared-workflows/issues/1483)) ([6469a52](https://github.com/svennergr/shared-workflows/commit/6469a5278fdedca811e1fc31528e2d4608c6debb))
+* **deps:** update oven-sh/setup-bun action to v2.1.0 ([#1647](https://github.com/svennergr/shared-workflows/issues/1647)) ([918a5ff](https://github.com/svennergr/shared-workflows/commit/918a5ff585876d4748cfa95b27ad0c38b2251e43))
+* **deps:** update oven-sh/setup-bun action to v2.1.2 ([#1666](https://github.com/svennergr/shared-workflows/issues/1666)) ([555872c](https://github.com/svennergr/shared-workflows/commit/555872c2a65ef9f80639bd96771ce55f233c15e6))
+* **deps:** update oven-sh/setup-bun action to v2.1.3 ([#1778](https://github.com/svennergr/shared-workflows/issues/1778)) ([f4207e5](https://github.com/svennergr/shared-workflows/commit/f4207e5231816574b5d565733ded8f1a189cb31c))
+* **deps:** update oven-sh/setup-bun action to v2.2.0 ([#1813](https://github.com/svennergr/shared-workflows/issues/1813)) ([35df936](https://github.com/svennergr/shared-workflows/commit/35df936028eacddfcfb6dceb1410d1766fe2933e))
+* **main:** release get-latest-workflow-artifact 0.2.1 ([#1309](https://github.com/svennergr/shared-workflows/issues/1309)) ([ab5772d](https://github.com/svennergr/shared-workflows/commit/ab5772d71047e0497cda5d8a61fea1a2d2ce365f))
+* **main:** release get-latest-workflow-artifact 0.2.2 ([#1736](https://github.com/svennergr/shared-workflows/issues/1736)) ([4d8181c](https://github.com/svennergr/shared-workflows/commit/4d8181c50eb5554e6c26ea2c1cfc4a84923030c4))
+
 ## [0.2.2](https://github.com/grafana/shared-workflows/compare/get-latest-workflow-artifact/v0.2.1...get-latest-workflow-artifact/v0.2.2) (2026-05-04)
 
 
