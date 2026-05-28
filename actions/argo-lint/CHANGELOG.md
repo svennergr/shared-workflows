@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.2.0](https://github.com/svennergr/shared-workflows/compare/argo-lint/v1.1.0...argo-lint/v1.2.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* **argo:** bump default Argo CLI to 3.7.10 and make version configurable in argo-lint ([f684d78](https://github.com/svennergr/shared-workflows/commit/f684d7826a961af39afa358f2e3f041fab0f5595))
+* **argo:** bump default Argo CLI to 3.7.10, make version configurable ([#1814](https://github.com/svennergr/shared-workflows/issues/1814)) ([f684d78](https://github.com/svennergr/shared-workflows/commit/f684d7826a961af39afa358f2e3f041fab0f5595))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **main:** release argo-lint 1.0.3 ([#1224](https://github.com/svennergr/shared-workflows/issues/1224)) ([49fd211](https://github.com/svennergr/shared-workflows/commit/49fd211b0975ce64aa4a37b711746889e55820a8))
+* **main:** release argo-lint 1.1.0 ([#1678](https://github.com/svennergr/shared-workflows/issues/1678)) ([ef80df8](https://github.com/svennergr/shared-workflows/commit/ef80df8c22d44c0e353da46db96c901a6a5a6d0d))
+
 ## [1.1.0](https://github.com/grafana/shared-workflows/compare/argo-lint/v1.0.3...argo-lint/v1.1.0) (2026-03-19)
 
 
