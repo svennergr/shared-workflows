@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.0](https://github.com/svennergr/shared-workflows/compare/component-change-detection/v1.0.1...component-change-detection/v1.1.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* add component-change-detection action ([#1711](https://github.com/svennergr/shared-workflows/issues/1711)) ([ef4f6da](https://github.com/svennergr/shared-workflows/commit/ef4f6dac37ac4e312a6282e112a0726888bee36e))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/setup-go action to v6.3.0 ([#1756](https://github.com/svennergr/shared-workflows/issues/1756)) ([c6b0752](https://github.com/svennergr/shared-workflows/commit/c6b07529443393154d824d1ad0e707f4b3d090f6))
+* **deps:** update actions/setup-go action to v6.4.0 ([#1837](https://github.com/svennergr/shared-workflows/issues/1837)) ([170bd5b](https://github.com/svennergr/shared-workflows/commit/170bd5b0ba3c2414519216fd5d7f0fe5a40e3f40))
+* **deps:** update dawidd6/action-download-artifact action to v15 ([#1738](https://github.com/svennergr/shared-workflows/issues/1738)) ([36005ff](https://github.com/svennergr/shared-workflows/commit/36005ff276117278dcb4498b82975048530ef069))
+* **deps:** update dawidd6/action-download-artifact action to v16 ([#1753](https://github.com/svennergr/shared-workflows/issues/1753)) ([b71be18](https://github.com/svennergr/shared-workflows/commit/b71be180de45d83fe3f1641ff8ced2b2d967c155))
+* **deps:** update dawidd6/action-download-artifact action to v18 ([#1812](https://github.com/svennergr/shared-workflows/issues/1812)) ([e40c7fe](https://github.com/svennergr/shared-workflows/commit/e40c7fecb195dd2644cd3991abf756782cbd4143))
+* **deps:** update dawidd6/action-download-artifact action to v19 ([#1822](https://github.com/svennergr/shared-workflows/issues/1822)) ([4d6ff3e](https://github.com/svennergr/shared-workflows/commit/4d6ff3ed5e93b9b5f229ca66ead5430fe9b421c7))
+* **deps:** update dawidd6/action-download-artifact action to v20 ([#1850](https://github.com/svennergr/shared-workflows/issues/1850)) ([8027637](https://github.com/svennergr/shared-workflows/commit/80276376018d7be3c868bc7ab37711db9ca5d7c2))
+* **deps:** update dawidd6/action-download-artifact action to v21 ([#1914](https://github.com/svennergr/shared-workflows/issues/1914)) ([c083482](https://github.com/svennergr/shared-workflows/commit/c083482fa9e363e80b376d0317172bc3f55ddb3d))
+* **main:** release component-change-detection 1.0.0 ([#1733](https://github.com/svennergr/shared-workflows/issues/1733)) ([4eb295f](https://github.com/svennergr/shared-workflows/commit/4eb295facdfb2514fcef40bf96f2675896ab0e3b))
+* **main:** release component-change-detection 1.0.1 ([#1744](https://github.com/svennergr/shared-workflows/issues/1744)) ([817fc3d](https://github.com/svennergr/shared-workflows/commit/817fc3da79afcb1e6340380c365ffb803ace5888))
+
 ## [1.0.1](https://github.com/grafana/shared-workflows/compare/component-change-detection/v1.0.0...component-change-detection/v1.0.1) (2026-05-05)
 
 
