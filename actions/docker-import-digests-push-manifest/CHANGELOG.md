@@ -1,5 +1,39 @@
 # Changelog
 
+## [0.3.0](https://github.com/svennergr/shared-workflows/compare/docker-import-digests-push-manifest/v0.2.1...docker-import-digests-push-manifest/v0.3.0) (2026-05-28)
+
+
+### 🎉 Features
+
+* **docker-import-digests-push-manifest:** add manifest detail outputs ([f5bed00](https://github.com/svennergr/shared-workflows/commit/f5bed0079a15c2c2ebfec1a76fc3b8e646f7f892))
+* **docker-import-digests-push-manifest:** add manifest summaries ([#1745](https://github.com/svennergr/shared-workflows/issues/1745)) ([f5bed00](https://github.com/svennergr/shared-workflows/commit/f5bed0079a15c2c2ebfec1a76fc3b8e646f7f892))
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update actions/download-artifact action to v8 ([#1749](https://github.com/svennergr/shared-workflows/issues/1749)) ([9169dac](https://github.com/svennergr/shared-workflows/commit/9169dac82ee307312a1c948918184ea02f34aff8))
+* **deps:** update actions/download-artifact action to v8.0.1 ([#1803](https://github.com/svennergr/shared-workflows/issues/1803)) ([1fa2a72](https://github.com/svennergr/shared-workflows/commit/1fa2a7215acb603ae344a91da488771e1b11502b))
+* **deps:** update actions/setup-go action to v6.2.0 ([#1746](https://github.com/svennergr/shared-workflows/issues/1746)) ([9be2f51](https://github.com/svennergr/shared-workflows/commit/9be2f51d865bc51202190c8ca09c0382c9a2f7fa))
+* **deps:** update actions/setup-go action to v6.3.0 ([#1756](https://github.com/svennergr/shared-workflows/issues/1756)) ([c6b0752](https://github.com/svennergr/shared-workflows/commit/c6b07529443393154d824d1ad0e707f4b3d090f6))
+* **deps:** update actions/setup-go action to v6.4.0 ([#1837](https://github.com/svennergr/shared-workflows/issues/1837)) ([170bd5b](https://github.com/svennergr/shared-workflows/commit/170bd5b0ba3c2414519216fd5d7f0fe5a40e3f40))
+* **deps:** update docker/metadata-action action to v5.10.0 ([#1582](https://github.com/svennergr/shared-workflows/issues/1582)) ([d80ddba](https://github.com/svennergr/shared-workflows/commit/d80ddba3b588ad911410ce91c599bbbe513196b0))
+* **deps:** update docker/metadata-action action to v5.9.0 ([#1501](https://github.com/svennergr/shared-workflows/issues/1501)) ([2d5a067](https://github.com/svennergr/shared-workflows/commit/2d5a0678eb32b0fd6655b4f7a3a7ec72eaf530ca))
+* **deps:** update docker/metadata-action action to v6 ([#1787](https://github.com/svennergr/shared-workflows/issues/1787)) ([de48747](https://github.com/svennergr/shared-workflows/commit/de48747bf25be41fcb04d5d6ff05cc5eed0775fe))
+* **deps:** update docker/setup-buildx-action action to v3.12.0 ([#1633](https://github.com/svennergr/shared-workflows/issues/1633)) ([9c7001f](https://github.com/svennergr/shared-workflows/commit/9c7001fb8ab6048113c07b6454aea78589e0e6b9))
+* **deps:** update docker/setup-buildx-action action to v4 ([#1791](https://github.com/svennergr/shared-workflows/issues/1791)) ([2376476](https://github.com/svennergr/shared-workflows/commit/2376476a8678d5422711041823033659e4872548))
+* **deps:** update github artifact actions ([3b65def](https://github.com/svennergr/shared-workflows/commit/3b65def88604a4f3789b144e891b14efeb528057))
+* **deps:** update github artifact actions ([ebaf11d](https://github.com/svennergr/shared-workflows/commit/ebaf11d9a28ba8617d6c1db41ca7ecb97005e4b4))
+* **deps:** update github artifact actions (major) ([#1463](https://github.com/svennergr/shared-workflows/issues/1463)) ([ebaf11d](https://github.com/svennergr/shared-workflows/commit/ebaf11d9a28ba8617d6c1db41ca7ecb97005e4b4))
+* **deps:** update github artifact actions (major) ([#1629](https://github.com/svennergr/shared-workflows/issues/1629)) ([3b65def](https://github.com/svennergr/shared-workflows/commit/3b65def88604a4f3789b144e891b14efeb528057))
+* **main:** release docker-import-digests-push-manifest 0.1.0 ([#1420](https://github.com/svennergr/shared-workflows/issues/1420)) ([cd422be](https://github.com/svennergr/shared-workflows/commit/cd422befbbda65e0612a63627e8c8820d86bc2a6))
+* **main:** release docker-import-digests-push-manifest 0.1.1 ([#1465](https://github.com/svennergr/shared-workflows/issues/1465)) ([c7c3322](https://github.com/svennergr/shared-workflows/commit/c7c3322b5815fd007586605e0ea286969f6aeae2))
+* **main:** release docker-import-digests-push-manifest 0.2.0 ([#1543](https://github.com/svennergr/shared-workflows/issues/1543)) ([943e0da](https://github.com/svennergr/shared-workflows/commit/943e0dabf320bf0762834fc99fb3927e30f843af))
+* **main:** release docker-import-digests-push-manifest 0.2.1 ([#1752](https://github.com/svennergr/shared-workflows/issues/1752)) ([45a721b](https://github.com/svennergr/shared-workflows/commit/45a721b0bca7964cd07336db81b3cb744b386ab6))
+
 ## [0.2.1](https://github.com/grafana/shared-workflows/compare/docker-import-digests-push-manifest/v0.2.0...docker-import-digests-push-manifest/v0.2.1) (2026-05-04)
 
 
