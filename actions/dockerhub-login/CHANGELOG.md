@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.5](https://github.com/svennergr/shared-workflows/compare/dockerhub-login/v1.0.4...dockerhub-login/v1.0.5) (2026-05-28)
+
+
+### 🔧 Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([#1541](https://github.com/svennergr/shared-workflows/issues/1541)) ([773f5b1](https://github.com/svennergr/shared-workflows/commit/773f5b1eb7b717c5c89a2718c1c4322a45f2ed7f))
+* **deps:** update actions/checkout action to v6 ([#1570](https://github.com/svennergr/shared-workflows/issues/1570)) ([af4d9df](https://github.com/svennergr/shared-workflows/commit/af4d9dfcfa9da2582544cd2a6e6dcf06e516f9ea))
+* **deps:** update actions/checkout action to v6.0.1 ([#1590](https://github.com/svennergr/shared-workflows/issues/1590)) ([2425a5f](https://github.com/svennergr/shared-workflows/commit/2425a5fe46fb39d1d282caad59150165323e29a6))
+* **deps:** update actions/checkout action to v6.0.2 ([#1672](https://github.com/svennergr/shared-workflows/issues/1672)) ([3105e25](https://github.com/svennergr/shared-workflows/commit/3105e251e687194e9b2b4b456cb2846a761e0df0))
+* **deps:** update docker/login-action action to v3.7.0 ([#1684](https://github.com/svennergr/shared-workflows/issues/1684)) ([60e2e92](https://github.com/svennergr/shared-workflows/commit/60e2e922ca94bc80093982a1a26d4b7059874f6e))
+* **deps:** update docker/login-action action to v4 ([#1786](https://github.com/svennergr/shared-workflows/issues/1786)) ([abfcbbb](https://github.com/svennergr/shared-workflows/commit/abfcbbbaf2b9d5811d44fd7260533b3c2e54ad79))
+* **deps:** update docker/login-action action to v4.1.0 ([#1849](https://github.com/svennergr/shared-workflows/issues/1849)) ([249c27a](https://github.com/svennergr/shared-workflows/commit/249c27a2470e9c9eb6e1dd01177484b44aad9b5c))
+* **main:** release dockerhub-login 1.0.3 ([#1188](https://github.com/svennergr/shared-workflows/issues/1188)) ([081a366](https://github.com/svennergr/shared-workflows/commit/081a366728379fd0426b9cfef190e9a21c2d5418))
+* **main:** release dockerhub-login 1.0.4 ([#1677](https://github.com/svennergr/shared-workflows/issues/1677)) ([ef3a62a](https://github.com/svennergr/shared-workflows/commit/ef3a62a3ca4c1a15505b4235a5a51493194da3c7))
+
 ## [1.0.4](https://github.com/grafana/shared-workflows/compare/dockerhub-login/v1.0.3...dockerhub-login/v1.0.4) (2026-05-05)
 
 
