@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.3](https://github.com/svennergr/shared-workflows/compare/login-to-gar/v1.0.2...login-to-gar/v1.0.3) (2026-05-28)
+
+
+### 📝 Documentation
+
+* **multiple:** add warning about push to GAR failure ([#1555](https://github.com/svennergr/shared-workflows/issues/1555)) ([eb33f84](https://github.com/svennergr/shared-workflows/commit/eb33f84481d38701f4d2c587a4817ce332784f5f))
+
+
+### 🔧 Miscellaneous Chores
+
+* **main:** release login-to-gar 1.0.1 ([#1156](https://github.com/svennergr/shared-workflows/issues/1156)) ([c7ad5f5](https://github.com/svennergr/shared-workflows/commit/c7ad5f57693ac858c698d95783685a9cbfd91223))
+* **main:** release login-to-gar 1.0.2 ([#1559](https://github.com/svennergr/shared-workflows/issues/1559)) ([12c87e5](https://github.com/svennergr/shared-workflows/commit/12c87e5aa323694c820c1ff3d8e47e8237e05136))
+
 ## [1.0.2](https://github.com/grafana/shared-workflows/compare/login-to-gar/v1.0.1...login-to-gar/v1.0.2) (2026-05-04)
 
 
